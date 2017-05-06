@@ -1,10 +1,10 @@
-# My Plugin
+# Demo Boilerplate
 
-This is where you would put an intro to your plugin, and maybe a few examples of usage. 
+This is a demo repo, showing how to make an [Ignite CLI](https://github.com/infinitered/ignite) boilerplate.
 
 ## Example
 
-```js
-console.log("Hello World")
+```shell
+ignite new MyApp -b boss-boilerplate
 ```
 
