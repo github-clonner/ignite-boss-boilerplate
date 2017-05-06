@@ -1,7 +1,7 @@
 {
   "name": "ignite-boss-boilerplate",
   "description": "A demo boilerplate created by Jamon Holmgren",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "author": {
     "name": "Jamon Holmgren",
@@ -29,5 +29,3 @@
     "standard": "^8.6.0"
   }
 }
-
-
