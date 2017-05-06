@@ -1,0 +1,33 @@
+{
+  "name": "ignite-boss-boilerplate",
+  "description": "A demo boilerplate created by Jamon Holmgren",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": {
+    "name": "Jamon Holmgren",
+    "email": "jamon@infinite.red",
+    "url": "https://infinite.red"
+  },
+  "scripts": {
+    "lint": "standard",
+    "test": "ava",
+    "watch": "ava --watch",
+    "coverage": "nyc ava",
+    "shipit": "np"
+  },
+  "standard": {
+    "parser": "babel-eslint"
+  },
+  "url": "https://github",
+  "repository": "jamonholmgren/ignite-boss-boilerplate",
+  "devDependencies": {
+    "ava": "^0.18.2",
+    "babel-eslint": "^7.1.1",
+    "np": "^2.12.0",
+    "nyc": "^10.1.2",
+    "sinon": "^1.17.7",
+    "standard": "^8.6.0"
+  }
+}
+
+
